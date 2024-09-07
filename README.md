@@ -135,9 +135,15 @@ GET https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
 ## Screenshots
 
 ### Online Mode
-
 ![iPhone 15](Screenshots/Simulator_iPhone15_Online.png)
+![iPhone 15 Pro Max](Screenshots/Simulator_iPhone15ProMax_Online.png)
+
 ### Offline Mode
+![iPhone 15 First Time](Screenshots/Simulator_iPhone15_Offline_First_Time.png)
+![iPhone 15 Pro Max First Time](Screenshots/Simulator_iPhone15ProMax_Offline_First_Time.png)
+
+![iPhone 15 Next Day](Screenshots/Simulator_iPhone15_Offline_NextDay.png)
+![iPhone 15 Pro Max Next Day](Screenshots/Simulator_iPhone15ProMax_Offline_NextDay.png)
 
 ### Authors
 AshutoshMaurya10iOS – GitHub
