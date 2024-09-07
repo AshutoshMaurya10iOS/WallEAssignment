@@ -83,6 +83,7 @@ This app follows the MVVM (Model-View-ViewModel) architecture pattern:
 - **Model**: The data layer, including API responses and caching mechanisms.
 - **ViewModel**: The logic layer that fetches data from the model, processes it, and provides it to the view.
 - **View**: The user interface, which renders the image and details from the ViewModel.
+- **Singelton Pattern**: Singleton design pattern is used for Cache and network monitoring.
 
 ### SOLID Principles
 
