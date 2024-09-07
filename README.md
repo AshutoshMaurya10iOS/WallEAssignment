@@ -135,6 +135,8 @@ GET https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
 ## Screenshots
 
 ### Online Mode
+
+![iPhone 15](Screenshots/Simulator_iPhone15_Online.png)
 ### Offline Mode
 
 ### Authors
