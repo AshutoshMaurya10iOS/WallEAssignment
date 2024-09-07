@@ -12,7 +12,8 @@ class APIService {
 	
 	// Generic API request function
 	func fetchData<T: Decodable>(endpoint: String, completion: @escaping (Result<T, Error>) -> Void) {
-			// Fetch baseURL from the plist file
+		
+		// Fetch baseURL from the plist file
 		let baseURL = ConfigurationHelper.value(for: "BaseURL")
 		
 		// TODO: Fetch the API Key securely from keychain
