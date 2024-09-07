@@ -107,6 +107,7 @@ This app follows the MVVM (Model-View-ViewModel) architecture pattern:
 Given the time constraints, here are some improvements that can be made:
 
 1. **Image Caching**: Use a more advanced caching library like Kingfisher or SDWebImage for handling image caching.
+2. **Keychain Storage for API Key**: The API key should be stored in the keychain. This can be done as an improvement. Did not implement due to time constraints
 2. **Liskov Substitution Principle**: This could be optimized further. Have done the basics of it but can be further enhanced
 2. **Unit Testing**: Add unit tests to verify ViewModel logic, network requests, and caching mechanisms.
 3. **Localization**: Add support for multiple languages to make the app more accessible.
