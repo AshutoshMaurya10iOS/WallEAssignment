@@ -135,10 +135,6 @@ GET https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
 ### Online Mode
 ### Offline Mode
 
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 ### Authors
 AshutoshMaurya10iOS – GitHub
 
