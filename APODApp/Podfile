@@ -1,0 +1,11 @@
+platform :ios, '14.0'
+
+target 'WalmartExcerciseUIKit' do
+  use_frameworks!
+
+  # Pods for WalmartExcerciseUIKit
+  # pod 'Alamofire', '~> 5.4'
+  # pod 'RealmSwift', '~> 10.10'
+  pod 'ReachabilitySwift'
+
+end
