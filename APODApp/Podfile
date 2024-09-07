@@ -1,9 +1,9 @@
 platform :ios, '14.0'
 
-target 'WalmartExcerciseUIKit' do
+target 'APODApp' do
   use_frameworks!
 
-  # Pods for WalmartExcerciseUIKit
+  # Pods for APODApp
   # pod 'Alamofire', '~> 5.4'
   # pod 'RealmSwift', '~> 10.10'
   pod 'ReachabilitySwift'
